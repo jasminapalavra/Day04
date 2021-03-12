@@ -1,8 +1,12 @@
 function main(){
    // Only change code below this line 
-     var myX = 12 + 3;  
-     var myY = 19 + 17;
-     var myZ = 24 - 20;
+     var myX = 12;  
+     var myY = 19;
+     var myZ = 24;
+
+     myX += 3;
+     myY += 17;
+     myZ -= 20;
     // Only change code above this line
    return {
      myX,
